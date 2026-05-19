@@ -1,0 +1,1 @@
+"""Lightweight local job search engine package."""
