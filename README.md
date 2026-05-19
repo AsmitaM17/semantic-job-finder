@@ -32,6 +32,7 @@ Optional Local LLM support:
 ```powershell
 ollama pull gemma:2b
 ollama serve
+```
 
 Then enable the Ollama option inside the app.
 
